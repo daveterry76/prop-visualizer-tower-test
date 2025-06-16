@@ -27,12 +27,12 @@ This is a simple, interactive real estate prototype built with **React**. It all
 
 ## 📁 Project Structure
 
-src/
-├── components/ # Reusable UI components
-├── pages/ # Tower, Floor, and Apartment views
-├── data/ # Mock data for towers, floors, and apartments
-├── App.jsx # Main app logic with routing
-└── index.css # Tailwind CSS configuration
+```src/
+    ├── components/ # # Tower, Floor, and Apartment UI components
+    ├── data/ # Mock data for towers, floors, and apartments
+    ├── App.jsx # Main app logic with routing
+    └── index.css # Tailwind CSS configuration
+```
 
 ## ⚠️ Known Limitations & Tradeoffs
 
