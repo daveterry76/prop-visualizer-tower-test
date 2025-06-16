@@ -27,7 +27,8 @@ This is a simple, interactive real estate prototype built with **React**. It all
 
 ## 📁 Project Structure
 
-```src/
+```
+src/
     ├── components/ # # Tower, Floor, and Apartment UI components
     ├── data/ # Mock data for towers, floors, and apartments
     ├── App.jsx # Main app logic with routing
@@ -43,7 +44,7 @@ This is a simple, interactive real estate prototype built with **React**. It all
 
 ## 📹 Walkthrough
 
-> You can view a quick video walkthrough [here](#) (Add Loom or Drive link).
+> You can view a quick video walkthrough [here](https://www.loom.com/share/959f5f906cef444fbfbe7b93d669a399).
 
 ---
 
